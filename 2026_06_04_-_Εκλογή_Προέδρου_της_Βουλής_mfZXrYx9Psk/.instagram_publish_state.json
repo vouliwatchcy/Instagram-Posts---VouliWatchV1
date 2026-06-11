@@ -1,0 +1,43 @@
+{
+  "batches": {
+    "1": {
+      "carousel_created_at": "2026-06-04T18:10:35.558906+00:00",
+      "carousel_id": "18108346966848927",
+      "children": {
+        "slide_00_cover.png": {
+          "container_id": "18108346462848927",
+          "created_at": "2026-06-04T18:07:15.264918+00:00",
+          "finished_at": "2026-06-04T18:07:59.661905+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_06_04_-_%CE%95%CE%BA%CE%BB%CE%BF%CE%B3%CE%AE_%CE%A0%CF%81%CE%BF%CE%AD%CE%B4%CF%81%CE%BF%CF%85_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_mfZXrYx9Psk/slide_00_cover.png",
+          "status": "FINISHED"
+        },
+        "slide_01_1_Διαβεβαίωση_των_βουλευτών_και_των_αντι.png": {
+          "container_id": "18108346705848927",
+          "created_at": "2026-06-04T18:08:35.972814+00:00",
+          "finished_at": "2026-06-04T18:08:36.131669+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_06_04_-_%CE%95%CE%BA%CE%BB%CE%BF%CE%B3%CE%AE_%CE%A0%CF%81%CE%BF%CE%AD%CE%B4%CF%81%CE%BF%CF%85_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_mfZXrYx9Psk/slide_01_1_%CE%94%CE%B9%CE%B1%CE%B2%CE%B5%CE%B2%CE%B1%CE%AF%CF%89%CF%83%CE%B7_%CF%84%CF%89%CE%BD_%CE%B2%CE%BF%CF%85%CE%BB%CE%B5%CF%85%CF%84%CF%8E%CE%BD_%CE%BA%CE%B1%CE%B9_%CF%84%CF%89%CE%BD_%CE%B1%CE%BD%CF%84%CE%B9.png",
+          "status": "FINISHED"
+        },
+        "slide_02_2_Εκλογή_Προέδρου_της_Βουλής.png": {
+          "container_id": "18108346741848927",
+          "created_at": "2026-06-04T18:09:02.190296+00:00",
+          "finished_at": "2026-06-04T18:10:00.713039+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_06_04_-_%CE%95%CE%BA%CE%BB%CE%BF%CE%B3%CE%AE_%CE%A0%CF%81%CE%BF%CE%AD%CE%B4%CF%81%CE%BF%CF%85_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_mfZXrYx9Psk/slide_02_2_%CE%95%CE%BA%CE%BB%CE%BF%CE%B3%CE%AE_%CE%A0%CF%81%CE%BF%CE%AD%CE%B4%CF%81%CE%BF%CF%85_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82.png",
+          "status": "FINISHED"
+        },
+        "slide_03_pending.png": {
+          "container_id": "18108346924848927",
+          "created_at": "2026-06-04T18:10:29.393152+00:00",
+          "finished_at": "2026-06-04T18:10:29.590921+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_06_04_-_%CE%95%CE%BA%CE%BB%CE%BF%CE%B3%CE%AE_%CE%A0%CF%81%CE%BF%CE%AD%CE%B4%CF%81%CE%BF%CF%85_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_mfZXrYx9Psk/slide_03_pending.png",
+          "status": "FINISHED"
+        }
+      },
+      "post_id": "17988455345994546",
+      "published_at": "2026-06-04T18:12:51.808708+00:00"
+    }
+  },
+  "folder": "2026_06_04_-_Εκλογή_Προέδρου_της_Βουλής_mfZXrYx9Psk",
+  "updated_at": "2026-06-04T18:12:51.808738+00:00",
+  "version": 1
+}
