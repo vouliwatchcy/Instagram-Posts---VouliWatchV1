@@ -1,0 +1,43 @@
+{
+  "batches": {
+    "1": {
+      "carousel_created_at": "2026-06-17T11:57:34.297273+00:00",
+      "carousel_id": "18110522629848927",
+      "children": {
+        "slide_00_cover.png": {
+          "container_id": "18110522008848927",
+          "created_at": "2026-06-17T11:54:11.868869+00:00",
+          "finished_at": "2026-06-17T11:54:12.050316+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_06_17_-_%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%AF%CE%B1_%CE%9F%CE%BB%CE%BF%CE%BC%CE%AD%CE%BB%CE%B5%CE%B9%CE%B1%CF%82_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_P0a0Lt7rCRM/slide_00_cover.png",
+          "status": "FINISHED"
+        },
+        "slide_01_1_Έγκριση_της_σύνθεσης_των_κοινοβουλευτι.png": {
+          "container_id": "18110522068848927",
+          "created_at": "2026-06-17T11:54:47.209587+00:00",
+          "finished_at": "2026-06-17T11:55:47.735919+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_06_17_-_%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%AF%CE%B1_%CE%9F%CE%BB%CE%BF%CE%BC%CE%AD%CE%BB%CE%B5%CE%B9%CE%B1%CF%82_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_P0a0Lt7rCRM/slide_01_1_%CE%88%CE%B3%CE%BA%CF%81%CE%B9%CF%83%CE%B7_%CF%84%CE%B7%CF%82_%CF%83%CF%8D%CE%BD%CE%B8%CE%B5%CF%83%CE%B7%CF%82_%CF%84%CF%89%CE%BD_%CE%BA%CE%BF%CE%B9%CE%BD%CE%BF%CE%B2%CE%BF%CF%85%CE%BB%CE%B5%CF%85%CF%84%CE%B9.png",
+          "status": "FINISHED"
+        },
+        "slide_02_2_Εκλογή_μελών_της_Ειδικής_Κοινοβουλευτι.png": {
+          "container_id": "18110522392848927",
+          "created_at": "2026-06-17T11:56:19.178825+00:00",
+          "finished_at": "2026-06-17T11:56:56.533498+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_06_17_-_%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%AF%CE%B1_%CE%9F%CE%BB%CE%BF%CE%BC%CE%AD%CE%BB%CE%B5%CE%B9%CE%B1%CF%82_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_P0a0Lt7rCRM/slide_02_2_%CE%95%CE%BA%CE%BB%CE%BF%CE%B3%CE%AE_%CE%BC%CE%B5%CE%BB%CF%8E%CE%BD_%CF%84%CE%B7%CF%82_%CE%95%CE%B9%CE%B4%CE%B9%CE%BA%CE%AE%CF%82_%CE%9A%CE%BF%CE%B9%CE%BD%CE%BF%CE%B2%CE%BF%CF%85%CE%BB%CE%B5%CF%85%CF%84%CE%B9.png",
+          "status": "FINISHED"
+        },
+        "slide_03_3_Δύο_προτάσεις_νόμου_για_την_Ανεξάρτητη.png": {
+          "container_id": "18110522599848927",
+          "created_at": "2026-06-17T11:57:26.342267+00:00",
+          "finished_at": "2026-06-17T11:57:26.717164+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_06_17_-_%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%AF%CE%B1_%CE%9F%CE%BB%CE%BF%CE%BC%CE%AD%CE%BB%CE%B5%CE%B9%CE%B1%CF%82_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_P0a0Lt7rCRM/slide_03_3_%CE%94%CF%8D%CE%BF_%CF%80%CF%81%CE%BF%CF%84%CE%AC%CF%83%CE%B5%CE%B9%CF%82_%CE%BD%CF%8C%CE%BC%CE%BF%CF%85_%CE%B3%CE%B9%CE%B1_%CF%84%CE%B7%CE%BD_%CE%91%CE%BD%CE%B5%CE%BE%CE%AC%CF%81%CF%84%CE%B7%CF%84%CE%B7.png",
+          "status": "FINISHED"
+        }
+      },
+      "post_id": "17859855423646641",
+      "published_at": "2026-06-17T12:01:11.512310+00:00"
+    }
+  },
+  "folder": "2026_06_17_-_Συνεδρία_Ολομέλειας_της_Βουλής_P0a0Lt7rCRM",
+  "updated_at": "2026-06-17T12:01:11.512368+00:00",
+  "version": 1
+}
