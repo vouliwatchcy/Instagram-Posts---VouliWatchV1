@@ -1,0 +1,86 @@
+{
+  "batches": {
+    "1": {
+      "next_batch_allowed_at": "2026-09-24T23:57:01.585443+00:00",
+      "next_batch_num": 2,
+      "photos": {
+        "slide_00_cover.png": {
+          "created_at": "2026-09-24T19:16:18.113312+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_09_24_-_%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%AF%CE%B1_%CE%9F%CE%BB%CE%BF%CE%BC%CE%AD%CE%BB%CE%B5%CE%B9%CE%B1%CF%82_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_C6bXH7JfRRU/slide_00_cover.png",
+          "photo_id": "122119118199296182"
+        },
+        "slide_01_1_Πρόσθετες_μισθολογικές_δαπάνες_στο_Ταμ.png": {
+          "created_at": "2026-09-24T19:16:29.942737+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_09_24_-_%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%AF%CE%B1_%CE%9F%CE%BB%CE%BF%CE%BC%CE%AD%CE%BB%CE%B5%CE%B9%CE%B1%CF%82_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_C6bXH7JfRRU/slide_01_1_%CE%A0%CF%81%CF%8C%CF%83%CE%B8%CE%B5%CF%84%CE%B5%CF%82_%CE%BC%CE%B9%CF%83%CE%B8%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AD%CF%82_%CE%B4%CE%B1%CF%80%CE%AC%CE%BD%CE%B5%CF%82_%CF%83%CF%84%CE%BF_%CE%A4%CE%B1%CE%BC.png",
+          "photo_id": "122119118241296182"
+        },
+        "slide_02_2_Νέα_θέση_ανθρώπινου_δυναμικού_στην_Αρχ.png": {
+          "created_at": "2026-09-24T19:16:52.462861+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_09_24_-_%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%AF%CE%B1_%CE%9F%CE%BB%CE%BF%CE%BC%CE%AD%CE%BB%CE%B5%CE%B9%CE%B1%CF%82_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_C6bXH7JfRRU/slide_02_2_%CE%9D%CE%AD%CE%B1_%CE%B8%CE%AD%CF%83%CE%B7_%CE%B1%CE%BD%CE%B8%CF%81%CF%8E%CF%80%CE%B9%CE%BD%CE%BF%CF%85_%CE%B4%CF%85%CE%BD%CE%B1%CE%BC%CE%B9%CE%BA%CE%BF%CF%8D_%CF%83%CF%84%CE%B7%CE%BD_%CE%91%CF%81%CF%87.png",
+          "photo_id": "122119118325296182"
+        },
+        "slide_03_3_Κεφαλαιακή_επάρκεια_επιχειρήσεων_παροχ.png": {
+          "created_at": "2026-09-24T19:17:18.962288+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_09_24_-_%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%AF%CE%B1_%CE%9F%CE%BB%CE%BF%CE%BC%CE%AD%CE%BB%CE%B5%CE%B9%CE%B1%CF%82_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_C6bXH7JfRRU/slide_03_3_%CE%9A%CE%B5%CF%86%CE%B1%CE%BB%CE%B1%CE%B9%CE%B1%CE%BA%CE%AE_%CE%B5%CF%80%CE%AC%CF%81%CE%BA%CE%B5%CE%B9%CE%B1_%CE%B5%CF%80%CE%B9%CF%87%CE%B5%CE%B9%CF%81%CE%AE%CF%83%CE%B5%CF%89%CE%BD_%CF%80%CE%B1%CF%81%CE%BF%CF%87.png",
+          "photo_id": "122119118415296182"
+        },
+        "slide_04_4_Προληπτική_εποπτεία_επιχειρήσεων_παροχ.png": {
+          "created_at": "2026-09-24T19:17:50.632894+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_09_24_-_%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%AF%CE%B1_%CE%9F%CE%BB%CE%BF%CE%BC%CE%AD%CE%BB%CE%B5%CE%B9%CE%B1%CF%82_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_C6bXH7JfRRU/slide_04_4_%CE%A0%CF%81%CE%BF%CE%BB%CE%B7%CF%80%CF%84%CE%B9%CE%BA%CE%AE_%CE%B5%CF%80%CE%BF%CF%80%CF%84%CE%B5%CE%AF%CE%B1_%CE%B5%CF%80%CE%B9%CF%87%CE%B5%CE%B9%CF%81%CE%AE%CF%83%CE%B5%CF%89%CE%BD_%CF%80%CE%B1%CF%81%CE%BF%CF%87.png",
+          "photo_id": "122119118517296182"
+        },
+        "slide_05_5_Συμμετοχική_χρηματοδότηση_επιχειρήσεων.png": {
+          "created_at": "2026-09-24T19:18:22.399602+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_09_24_-_%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%AF%CE%B1_%CE%9F%CE%BB%CE%BF%CE%BC%CE%AD%CE%BB%CE%B5%CE%B9%CE%B1%CF%82_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_C6bXH7JfRRU/slide_05_5_%CE%A3%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CE%AE_%CF%87%CF%81%CE%B7%CE%BC%CE%B1%CF%84%CE%BF%CE%B4%CF%8C%CF%84%CE%B7%CF%83%CE%B7_%CE%B5%CF%80%CE%B9%CF%87%CE%B5%CE%B9%CF%81%CE%AE%CF%83%CE%B5%CF%89%CE%BD.png",
+          "photo_id": "122119118607296182"
+        },
+        "slide_06_6_Μετονομασία_τμήματος_στο_Πανεπιστήμιο_.png": {
+          "created_at": "2026-09-24T19:18:52.246038+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_09_24_-_%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%AF%CE%B1_%CE%9F%CE%BB%CE%BF%CE%BC%CE%AD%CE%BB%CE%B5%CE%B9%CE%B1%CF%82_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_C6bXH7JfRRU/slide_06_6_%CE%9C%CE%B5%CF%84%CE%BF%CE%BD%CE%BF%CE%BC%CE%B1%CF%83%CE%AF%CE%B1_%CF%84%CE%BC%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82_%CF%83%CF%84%CE%BF_%CE%A0%CE%B1%CE%BD%CE%B5%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B9%CE%BF_.png",
+          "photo_id": "122119118757296182"
+        }
+      },
+      "post_id": "1122748827592172_122119119069296182",
+      "published_at": "2026-09-24T19:21:46.584384+00:00"
+    },
+    "2": {
+      "photos": {
+        "slide_07_7_Σχέδια_υπηρεσίας_στο_Υφυπουργείο_Έρευν.png": {
+          "created_at": "2026-09-24T23:58:47.055456+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_09_24_-_%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%AF%CE%B1_%CE%9F%CE%BB%CE%BF%CE%BC%CE%AD%CE%BB%CE%B5%CE%B9%CE%B1%CF%82_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_C6bXH7JfRRU/slide_07_7_%CE%A3%CF%87%CE%AD%CE%B4%CE%B9%CE%B1_%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B1%CF%82_%CF%83%CF%84%CE%BF_%CE%A5%CF%86%CF%85%CF%80%CE%BF%CF%85%CF%81%CE%B3%CE%B5%CE%AF%CE%BF_%CE%88%CF%81%CE%B5%CF%85%CE%BD.png",
+          "photo_id": "122119137195296182"
+        },
+        "slide_08_8_Σχέδιο_υπηρεσίας_τεχνικού_μηχανικού_στ.png": {
+          "created_at": "2026-09-24T23:59:05.403581+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_09_24_-_%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%AF%CE%B1_%CE%9F%CE%BB%CE%BF%CE%BC%CE%AD%CE%BB%CE%B5%CE%B9%CE%B1%CF%82_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_C6bXH7JfRRU/slide_08_8_%CE%A3%CF%87%CE%AD%CE%B4%CE%B9%CE%BF_%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B1%CF%82_%CF%84%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%BF%CF%8D_%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B9%CE%BA%CE%BF%CF%8D_%CF%83%CF%84.png",
+          "photo_id": "122119137237296182"
+        },
+        "slide_09_9_Νέες_θέσεις_στο_Τμήμα_Φορολογίας.png": {
+          "created_at": "2026-09-24T23:59:21.715687+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_09_24_-_%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%AF%CE%B1_%CE%9F%CE%BB%CE%BF%CE%BC%CE%AD%CE%BB%CE%B5%CE%B9%CE%B1%CF%82_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_C6bXH7JfRRU/slide_09_9_%CE%9D%CE%AD%CE%B5%CF%82_%CE%B8%CE%AD%CF%83%CE%B5%CE%B9%CF%82_%CF%83%CF%84%CE%BF_%CE%A4%CE%BC%CE%AE%CE%BC%CE%B1_%CE%A6%CE%BF%CF%81%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1%CF%82.png",
+          "photo_id": "122119137297296182"
+        },
+        "slide_10_10_Εκσυγχρονισμός_προσόντων_για_θέσεις_σ.png": {
+          "created_at": "2026-09-24T23:59:51.917259+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_09_24_-_%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%AF%CE%B1_%CE%9F%CE%BB%CE%BF%CE%BC%CE%AD%CE%BB%CE%B5%CE%B9%CE%B1%CF%82_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_C6bXH7JfRRU/slide_10_10_%CE%95%CE%BA%CF%83%CF%85%CE%B3%CF%87%CF%81%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CF%8C%CF%82_%CF%80%CF%81%CE%BF%CF%83%CF%8C%CE%BD%CF%84%CF%89%CE%BD_%CE%B3%CE%B9%CE%B1_%CE%B8%CE%AD%CF%83%CE%B5%CE%B9%CF%82_%CF%83.png",
+          "photo_id": "122119137357296182"
+        },
+        "slide_11_11_Τροποποίηση_για_την_ασφάλεια_και_υγεί.png": {
+          "created_at": "2026-09-25T00:00:07.483456+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_09_24_-_%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%AF%CE%B1_%CE%9F%CE%BB%CE%BF%CE%BC%CE%AD%CE%BB%CE%B5%CE%B9%CE%B1%CF%82_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_C6bXH7JfRRU/slide_11_11_%CE%A4%CF%81%CE%BF%CF%80%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7_%CE%B3%CE%B9%CE%B1_%CF%84%CE%B7%CE%BD_%CE%B1%CF%83%CF%86%CE%AC%CE%BB%CE%B5%CE%B9%CE%B1_%CE%BA%CE%B1%CE%B9_%CF%85%CE%B3%CE%B5%CE%AF.png",
+          "photo_id": "122119137417296182"
+        },
+        "slide_12_12_Τροποποιητικοί_κανονισμοί_δημόσιας_υπ.png": {
+          "created_at": "2026-09-25T00:00:23.852339+00:00",
+          "image_url": "https://raw.githubusercontent.com/vouliwatchcy/Instagram-Posts---VouliWatchV1/main/2026_09_24_-_%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%AF%CE%B1_%CE%9F%CE%BB%CE%BF%CE%BC%CE%AD%CE%BB%CE%B5%CE%B9%CE%B1%CF%82_%CF%84%CE%B7%CF%82_%CE%92%CE%BF%CF%85%CE%BB%CE%AE%CF%82_C6bXH7JfRRU/slide_12_12_%CE%A4%CF%81%CE%BF%CF%80%CE%BF%CF%80%CE%BF%CE%B9%CE%B7%CF%84%CE%B9%CE%BA%CE%BF%CE%AF_%CE%BA%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CE%AF_%CE%B4%CE%B7%CE%BC%CF%8C%CF%83%CE%B9%CE%B1%CF%82_%CF%85%CF%80.png",
+          "photo_id": "122119137471296182"
+        }
+      },
+      "post_id": "1122748827592172_122119137735296182",
+      "published_at": "2026-09-25T00:02:58.213320+00:00"
+    }
+  },
+  "folder": "2026_09_24_-_Συνεδρία_Ολομέλειας_της_Βουλής_C6bXH7JfRRU",
+  "updated_at": "2026-09-25T00:02:58.213351+00:00",
+  "version": 1
+}
